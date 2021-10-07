@@ -7,11 +7,12 @@ at first i made this simple app just to test the packages that convert .py to .e
 1- copy the app in your series folder<br>
 2- open the app<br>
 ![alt text](https://github.com/sepehr-mnp/random-series-picker/blob/master/randopener01.png)
-3- if you sorted your series by season:<br>
+3- <br>
+__if you sorted your series by season:__<br>
     -press "a" to pick a random file(in this case, episode) from a random folder(in this case, season)<br>
     -if you want to choose another file(episode) from another folder(season), press "a" again and again until you find your suitable file<br>
     -if you like ani=other file(episode) in the current folder(season) that app have picked file(episode) from, simply just press "n" as many times as you want until you find the one that you like<br><br>
-   if you have all the files(episodes) in one folder:<br>
+   __if you have all the files(episodes) in one folder:__<br>
     -simpy press "n" :)
     
     
